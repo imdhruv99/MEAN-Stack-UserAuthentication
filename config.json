@@ -1,0 +1,5 @@
+﻿{
+    "connectionString": "mongodb://localhost:27017/mean-stack-registration-login-example",
+    "apiUrl": "http://localhost:7500/api",
+    "secret": "OpIOxV9kgCX5yzSsm1kX2p8pfKQZaOwY"
+}
